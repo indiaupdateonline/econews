@@ -1,0 +1,186 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Vietnam plans mass evacuation, China's Sanya shuts as Typhoon Kajiki intensifies",
+      "date": "2025-08-24",
+      "category": "Climate",
+      "url": "https://www.reuters.com/sustainability/climate-energy/vietnam-plans-mass-evacuation-chinas-sanya-shuts-typhoon-kajiki-intensifies-2025-08-24/",
+      "imageUrl": "https://www.noaa.gov/ (NOAA GOES / satellite imagery pages — public domain; specific GOES images and timestamps available on NOAA/GOES master pages)",
+      "excerpt": "Typhoon Kajiki intensified as it approached southern China and central Vietnam; Chinese resort city Sanya shut businesses and public transport while Vietnam ordered mass evacuations (hundreds of thousands). Governments cancelled flights and issued coastal warnings as storm preparations accelerated."
+    },
+    {
+      "id": 2,
+      "title": "Pakistan lake formed by mountain mudslide threatens 'catastrophic' floods",
+      "date": "2025-08-23",
+      "category": "Water",
+      "url": "https://www.reuters.com/sustainability/climate-energy/pakistan-lake-formed-by-mountain-mudslide-threatens-catastrophic-floods-2025-08-23/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:2025_Pakistan_floods (Wikimedia Commons — photos and community uploads from the 2025 monsoon/flood events; CC/PD or with clear attribution)",
+      "excerpt": "Heavy monsoon rains and a mountain mudslide in Gilgit-Baltistan created a ~7 km lake behind a natural dam. Authorities warned of possible catastrophic downstream floods, ordered evacuations and deployed disaster teams to lower risk while the blockage was monitored."
+    },
+    {
+      "id": 3,
+      "title": "Pakistani villagers scared to go back to deluged homes after floods kill over 340",
+      "date": "2025-08-18",
+      "category": "Disaster",
+      "url": "https://www.reuters.com/business/environment/pakistani-villagers-scared-go-back-deluged-homes-after-floods-kill-over-340-2025-08-18/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:2025_Pakistan_floods",
+      "excerpt": "After intense cloudbursts and flash floods in northwest Pakistan, survivors described destroyed homes and slow relief access; officials reported hundreds dead and tens of thousands displaced as rescue operations continued."
+    },
+    {
+      "id": 4,
+      "title": "Huge wildfires stabilising in Spain, cooler forecast fuels hope worst is over",
+      "date": "2025-08-19",
+      "category": "Climate",
+      "url": "https://www.reuters.com/sustainability/climate-energy/huge-wildfires-stabilising-spain-cooler-forecast-fuels-hope-worst-is-over-2025-08-19/",
+      "imageUrl": "https://earthobservatory.nasa.gov/images/154691/smoke-blankets-the-iberian-peninsula",
+      "excerpt": "Record wildfires across large parts of Spain (and Portugal) burned unprecedented areas in mid-August 2025. Cooler forecasts helped stabilise some blazes, but authorities warned of continued risk as thousands of fire crews and military units fought the fires."
+    },
+    {
+      "id": 5,
+      "title": "Drone captures devastation from raging wildfires in Portugal",
+      "date": "2025-08-21",
+      "category": "Conservation",
+      "url": "https://www.reuters.com/video/watch/idRW878821082025RP1/",
+      "imageUrl": "https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space",
+      "excerpt": "Drone footage released by reporters showed scorched landscapes and active fire fronts in central Portugal, illustrating the scale of damage to forests, farmland and rural communities during the intense Iberian fire season."
+    },
+    {
+      "id": 6,
+      "title": "Iberian wildfires seen from space as smoke blankets region",
+      "date": "2025-08-20",
+      "category": "Climate",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space",
+      "imageUrl": "https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space",
+      "excerpt": "Sentinel/Copernicus and NASA satellite imagery showed vast plumes of smoke across Spain and Portugal mid-August, with agencies reporting sharp spikes in wildfire emissions and area burned compared with seasonal norms."
+    },
+    {
+      "id": 7,
+      "title": "Copernicus Emergency Mapping activated for major wildfires in Spain (EMSR837)",
+      "date": "2025-08-15",
+      "category": "Conservation",
+      "url": "https://mapping.emergency.copernicus.eu/activations/EMSR837/",
+      "imageUrl": "https://mapping.emergency.copernicus.eu/activations/EMSR837/",
+      "excerpt": "Copernicus Emergency Management Service (EMS) activated rapid mapping for extensive wildfires in West Spain to provide extent and damage assessment layers used by civil protection and response teams."
+    },
+    {
+      "id": 8,
+      "title": "Rapid loss of Antarctic ice may be climate tipping point, scientists say",
+      "date": "2025-08-20",
+      "category": "Climate",
+      "url": "https://www.reuters.com/sustainability/cop/rapid-loss-antarctic-ice-may-be-climate-tipping-point-scientists-say-2025-08-20/",
+      "imageUrl": "https://earthobservatory.nasa.gov/ (NASA Earth Observatory / Antarctic imagery pages — public domain satellite imagery and maps)",
+      "excerpt": "A new peer-reviewed study (reported Aug 20) warns that fast Antarctic sea-ice and ice-shelf loss could represent a critical climate tipping point, with long-term impacts on sea levels, ocean circulation and ecosystems even if emissions fall."
+    },
+    {
+      "id": 9,
+      "title": "NHC says 40% chance of cyclone in next 48 hours for system east of Windward Islands",
+      "date": "2025-08-24",
+      "category": "Weather",
+      "url": "https://www.reuters.com/business/environment/nhc-says-40-chance-cyclone-next-48-hours-system-east-windward-islands-2025-08-24/",
+      "imageUrl": "https://www.noaa.gov/ (NOAA/NHC satellite / forecast imagery pages — public domain)",
+      "excerpt": "The U.S. National Hurricane Center (NHC) issued a 40% probability for tropical cyclone formation for a tropical wave about 450 miles east of the Windward Islands, advising mariners and island authorities to monitor developments."
+    },
+    {
+      "id": 10,
+      "title": "World Water Week 2025: 'Water for Climate Action' begins in Stockholm",
+      "date": "2025-08-24",
+      "category": "Water",
+      "url": "https://www.worldwaterweek.org/",
+      "imageUrl": "https://www.worldwaterweek.org/media (official event photo pages; check each image page for license/terms)",
+      "excerpt": "World Water Week (24–28 Aug 2025) opened in Stockholm with the theme 'Water for Climate Action', bringing researchers, policymakers and NGOs to focus on water-climate linkages, resilience and adaptation strategies."
+    },
+    {
+      "id": 11,
+      "title": "US EPA grants scores of backlogged biofuel waivers to small refineries",
+      "date": "2025-08-22",
+      "category": "Energy",
+      "url": "https://www.reuters.com/sustainability/climate-energy/us-epa-grants-scores-backlogged-biofuel-waivers-small-refineries-2025-08-22/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:United_States_Environmental_Protection_Agency_headquarters.jpg (U.S. federal government images are often public domain; verify license on the file page)",
+      "excerpt": "EPA announced decisions on dozens of pending small refinery exemption petitions under the Renewable Fuel Standard (RFS), granting many waivers that clear a backlog dating back to 2016 and prompting debate over future biofuel demand and reallocation rules."
+    },
+    {
+      "id": 12,
+      "title": "Plastic pollution treaty talks in Geneva fail to reach agreement",
+      "date": "2025-08-15",
+      "category": "Policy",
+      "url": "https://www.reuters.com/sustainability/climate-energy/plastic-pollution-treaty-stalled-geneva-talks-end-without-deal-2025-08-15/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:Plastic_pollution (Wikimedia Commons — multiple CC images about plastic pollution; check license tags)",
+      "excerpt": "Negotiations on a global plastics treaty in Geneva ended without consensus; delegates and campaigners warned that absence of production caps and chemical regulation left the process stalled and critics accused powerful petrochemical interests of blocking ambition."
+    },
+    {
+      "id": 13,
+      "title": "USDA ends programs for solar, wind projects on productive farmland",
+      "date": "2025-08-18",
+      "category": "Policy",
+      "url": "https://www.reuters.com/sustainability/climate-energy/usda-ends-programs-solar-wind-projects-farms-2025-08-18/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:Solar_farms (free/CC images of solar farms and agrivoltaics; verify per-file license)",
+      "excerpt": "The U.S. Department of Agriculture said it would no longer support certain solar and wind projects on productive farmland and will heighten scrutiny on renewables that use prime agricultural land — a policy change with implications for rural energy and farm incomes."
+    },
+    {
+      "id": 14,
+      "title": "Study: Climate risk affects bank lending behaviour in South Africa (working paper)",
+      "date": "2025-08-18",
+      "category": "Finance",
+      "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2025/climate-risk-and-bank-lending-in-south-africa",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:Johannesburg (free images of Johannesburg / banks / skylines; check license pages)",
+      "excerpt": "A recent working paper (South African Reserve Bank) examines how physical and transition climate risks are already influencing lending decisions by South African banks — a sign of growing financial-sector responses to climate exposures."
+    },
+    {
+      "id": 15,
+      "title": "Copernicus: Iberian fires produced record emissions over a short period",
+      "date": "2025-08-19",
+      "category": "Pollution",
+      "url": "https://atmosphere.copernicus.eu/spain-below-average-record-wildfire-emissions-just-one-week",
+      "imageUrl": "https://atmosphere.copernicus.eu/ (Copernicus Atmosphere Monitoring Service pages with satellite-derived emissions maps — free/CC)",
+      "excerpt": "Copernicus Atmosphere Monitoring Service reported sharp spikes in wildfire-related CO₂ and aerosol emissions from the Iberian fires, with weekly emissions surging to levels well above seasonal averages."
+    },
+    {
+      "id": 16,
+      "title": "NASA: Satellite images show smoke blankets the Iberian Peninsula",
+      "date": "2025-08-20",
+      "category": "Climate",
+      "url": "https://earthobservatory.nasa.gov/images/154691/smoke-blankets-the-iberian-peninsula",
+      "imageUrl": "https://earthobservatory.nasa.gov/images/154691/smoke-blankets-the-iberian-peninsula (NASA Earth Observatory — public domain)",
+      "excerpt": "NASA Earth Observatory satellite imagery captured massive plumes of smoke from Iberian wildfires drifting across Spain and into the Atlantic; all NASA Earth Observatory images are public domain (U.S. government)."
+    },
+    {
+      "id": 17,
+      "title": "Firefighter injured in Portugal blaze as crew flees wall of fire",
+      "date": "2025-08-21",
+      "category": "Emergency",
+      "url": "https://www.reuters.com/business/environment/firefighter-injured-portugal-blaze-crew-flees-wall-fire-2025-08-21/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:Wildfires (Wikimedia Commons collection; check file licenses per image)",
+      "excerpt": "Crews fighting Portugal wildfires reported injuries amid rapidly changing fire behaviour; authorities continue evacuations and mobilised international assistance including additional aircraft and firefighters."
+    },
+    {
+      "id": 18,
+      "title": "Pakistan monsoon toll rises as relief and recovery continue",
+      "date": "2025-08-22",
+      "category": "Disaster",
+      "url": "https://www.reuters.com/business/environment/more-than-300-people-dead-pakistan-after-heavy-rains-floods-2025-08-16/",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:2025_Pakistan_floods",
+      "excerpt": "Monsoon-related floods and cloudbursts in Pakistan continued to produce high casualties and damage through late August, with ongoing rescue, relief and risk-reduction operations across several provinces."
+    }
+  ],
+  "ads": [
+    {
+      "id": 1,
+      "title": "Sustainable Energy Solutions (non-commercial info)",
+      "imageUrl": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=600&q=60",
+      "url": "https://www.energy.gov/ (U.S. DOE / public resources on sustainable energy; image from Unsplash — free for commercial use per Unsplash license)"
+    },
+    {
+      "id": 2,
+      "title": "Open Stock: Free Eco Images",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=600&q=60",
+      "url": "https://unsplash.com/ (Unsplash — photographers allow free use; verify each image's license page)"
+    },
+    {
+      "id": 3,
+      "title": "Environmental Organisations — Resources & Reports",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Category:Environment_organizations (Wikimedia Commons collection — many free/CC images)",
+      "url": "https://www.unep.org/ (UN Environment Programme — official resources and news)"
+    }
+  ]
+}
